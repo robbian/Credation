@@ -1,0 +1,11 @@
+/.bmad-core
+/.claude
+/.gemini
+/.qwen
+/docs
+/node_modules
+.env.local
+.mcp.json
+CLAUDE.md
+.env.local
+
