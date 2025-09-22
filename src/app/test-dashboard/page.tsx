@@ -253,10 +253,10 @@ export default function TestDashboardPage() {
               </CardHeader>
               <CardContent>
                 <ol className="list-decimal list-inside space-y-2">
-                  <li>Click "Create Test Data" to populate your account with sample data</li>
+                  <li>Click &quot;Create Test Data&quot; to populate your account with sample data</li>
                   <li>Go to <a href="/dashboard" className="text-blue-500 underline">/dashboard</a> to see the populated dashboard</li>
-                  <li>Use "Validate Data" to check what data exists</li>
-                  <li>Use "Cleanup Test Data" to remove test data when done</li>
+                  <li>Use &quot;Validate Data&quot; to check what data exists</li>
+                  <li>Use &quot;Cleanup Test Data&quot; to remove test data when done</li>
                 </ol>
               </CardContent>
             </Card>

@@ -160,7 +160,7 @@ export default function LandingPage() {
               </div>
               <h3 className="mt-5 text-lg font-medium text-text-light dark:text-text-dark">✅ Faculty-Verified Credentials</h3>
               <p className="mt-2 text-base text-gray-600 dark:text-gray-400">
-                Upload external certificates, and once approved by faculty, they're instantly added to your profile.
+                Upload external certificates, and once approved by faculty, they&apos;re instantly added to your profile.
               </p>
             </div>
 

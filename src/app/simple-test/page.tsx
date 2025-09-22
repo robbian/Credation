@@ -96,7 +96,7 @@ export default function SimpleTestPage() {
             <p>After creating test data:</p>
             <ol className="list-decimal list-inside mt-2 space-y-1">
               <li>Go to <a href="/dashboard" className="text-blue-500 underline">/dashboard</a></li>
-              <li>You'll see populated summary cards</li>
+              <li>You&apos;ll see populated summary cards</li>
               <li>3 approved certificates in the table</li>
             </ol>
           </div>
